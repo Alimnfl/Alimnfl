@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently internship on **Pilih Jurusan**
 
-- 🌱 I’m currently learning **React, NextJS**
+- 🌱 I’m currently learning **React, Typescript**
 
 - 💬 Ask me about **Web Develope!**
 
