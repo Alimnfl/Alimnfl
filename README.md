@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimnfl&label=Profile%20views&color=0e75b6&style=flat" alt="alimnfl" /> </p>
 
-- 🔭 I’m currently internship on **Pilih Jurusan**
+- 🔭 I’m currently fresh graduated and have 1.5 years on tech
 
 - 🌱 I’m currently learning **React, Typescript**
 
