@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Alim</h1>
-<h3 align="center">A Front-End Developer from Indonesia</h3>
+<h3 align="center">a Frontend Engineer from Indonesia</h3>
 <p align="center">Portfolio : <a align="center" target="_blank" href="https://alimnfl.vercel.app/">alimnfl.vercel.app</a></p>
 
 
