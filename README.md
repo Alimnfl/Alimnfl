@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimnfl&label=Profile%20views&color=0e75b6&style=flat" alt="alimnfl" /> </p>
 
-- 🔭 I’m currently have 2 years profesional work
+- 🔭 I’m currently have 2.5 years profesional work
 
 - 🌱 I’m currently learning **React, Typescript**
 
 - 💬 Ask me about **Web Development!**
 
 - 📫 How to reach me **alimnfll@gmail.com**
-
-- ⚡ Fun fact **I like workout, eat some food, watching series (Korean or Japanese Languange) and Coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
