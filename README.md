@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, My name is Mohamad Naufal Alim</h1>
-<h3 align="center">A Front-End Developer from Indonesia and graduated Multimedia Engineering Tech from @ Politeknik Negeri Media Kreatif</h3>
-<h3 align="center">Portfolio : <a align="center" target="_blank" href="https://alimnfl.vercel.app/">alimnfl.vercel.app</a></h3>
+<h1 align="center">Hi 👋, My name is Alim</h1>
+<h3 align="center">A Front-End Developer from Indonesia</h3>
+<p align="center">Portfolio : <a align="center" target="_blank" href="https://alimnfl.vercel.app/">alimnfl.vercel.app</a></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimnfl&label=Profile%20views&color=0e75b6&style=flat" alt="alimnfl" /> </p>
