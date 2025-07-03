@@ -17,8 +17,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/alimnfl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-naufal-alim-901606232" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">My Stats:</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimnfl&" alt="alimnfl" /></p>
-
