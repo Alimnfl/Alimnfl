@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently have 3 years profesional work at Japan and Indonesian
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m frequently using **React, Typescript**
 
 - 💬 Ask me about **Web Development!**
 
