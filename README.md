@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimnfl&label=Profile%20views&color=0e75b6&style=flat" alt="alimnfl" /> </p>
 
-- 🔭 I’m currently have 3 years profesional work at Japan and Indonesian
+- 🔭 I currently have 3 years of professional experience remotely based on Japan and Indonesia.
 
-- 🌱 I’m frequently using **React, Typescript**
+- 🌱 I frequently use React and TypeScript.
 
 - 💬 Ask me about **Web Development!**
 
