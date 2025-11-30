@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimnfl&label=Profile%20views&color=0e75b6&style=flat" alt="alimnfl" /> </p>
 
-- 🔭 I currently have 3 years of professional experience remotely based on Japan and Indonesia.
+- 🔭 I currently have 3+ years of professional experience remotely based in Japan and Indonesia.
 
 - 🌱 I frequently use React and TypeScript.
 
