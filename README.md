@@ -11,7 +11,5 @@
 
 - 📫 How to reach me **alimnfll@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alimnfl" target="blank">Linkedin.</a>
-</p>
+<h3 align="left">Click this emoji to connect: <a href="https://www.linkedin.com/in/alimnfl" target="blank">🧏‍♂️</a></h3> 
+
