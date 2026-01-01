@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, My name is Alim</h1>
-<h3 align="center">a Frontend Engineer from Indonesia</h3>
-<p align="center">Portfolio : <a align="center" target="_blank" href="https://alimnfl.com">alimnfl.com</a></p>
+<h1 align="center">Hi 👋, My name is Alim Naufal</h1>
 
+🚀 I’m a Frontend Engineer with 3+ years of professional remote experience in Japan and Indonesia, specializing in React and TypeScript.
 
-- 🔭 I currently have 3+ years of professional experience remotely based in Japan and Indonesia.
+I regularly work in Node.js environments and have hands-on experience building and maintaining component libraries using Storybook, including contributions to open-source projects. I’ve also worked on CMS-based websites using frameworks like Next.js and TinaCMS.
 
-- 🌱 I frequently use React and TypeScript.
+Currently, I design and maintain frontend systems for an ML/NLP-driven HR platform, enabling seamless integration and visualization of AI-powered features, while focusing on scalable React architecture and component quality.
 
-- 💬 Ask me about **Web Development!**
+reach me: **alimnfll@gmail.com**
 
-- 📫 How to reach me **alimnfll@gmail.com**
-
-<h3 align="left">Click this emoji to connect: <a href="https://www.linkedin.com/in/alimnfl" target="blank">🧏‍♂️</a></h3> 
+<h3 align="left">Click this emoji to connect: <a href="https://www.linkedin.com/in/alimnfl" target="blank" style="cursor:pointer;">🧏‍♂️</a></h3> 
 
